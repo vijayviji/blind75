@@ -1,7 +1,7 @@
 /**
  * https://leetcode.com/problems/3sum/
  * 
- * Use twoSum procedure. TwoSum method looks for '0' sum. But instead use it for
+ * Use twoSum procedure. TwoSum method looks for '0' sum in a sorted array. But instead use it for
  * the third value in the triplet.
  *
  * Running time: O(n ^ 2). Speed can be increased by avoiding the test of 
